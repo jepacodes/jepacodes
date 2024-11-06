@@ -1,3 +1,5 @@
+PROFILE STILL UNDER CONSTRUCTION: Past projects comin' thru! 
+
 - 👋 Hi, I’m @jepacodes
 - 👀 I’m interested in the overlap of data science and healthcare (and a little bit of business too!)
 - 🌱 I’m currently learning AI Engineering - slowly but surely building my technical skills. 
